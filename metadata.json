@@ -1,1 +1,7 @@
-
+{
+  "name": "kriptoneon",
+  "website": "https://github.com/akerems",
+  "description": "Gasp Node running by akerems",
+  "logo": "https://raw.githubusercontent.com/akerems/gaspnode/main/nodelogo.png",
+  "twitter": "https://twitter.com/0xaynen"
+}
